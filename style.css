@@ -1,0 +1,100 @@
+.body{
+	background-color:rgb(15 26 161);
+}
+
+.img{
+	position: relative;
+	vertical-align:middle;
+	height: 70px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.div{
+   vertical-align: middle;
+   vertical-align:middle;
+   height: 70px;
+   margin-right: 20px;
+   margin-bottom: 20px;
+}
+
+.barre{
+   height: 50px;
+   width: 50px;
+	height: 50px;
+   border: none;
+   background-size: cover;
+   background-image: url(https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/e15/s240x240/271026559_1000571527471916_8212791215750443359_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=fHeXZ5_kAiEAX8HD3dc&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc0MjM5NzM4NTAyMTAyODYzMg%3D%3D.2-ccb7-4&oh=00_AT-JhzEwvBr9BnBrx0vUFb3rGa_5vTxXDNU7tZ4EU0x-qQ&oe=61D7F79D&_nc_sid=fa978c);
+}
+
+.titre{
+   font-size: 70px;
+   color: white;
+   font-family: Arial Black;
+   padding-left: 30px;
+   position: relative;
+   float: left;
+   margin: 0 10px 0 0;
+}
+
+.images{
+   float: left;
+   margin: 0 10px 0 0;
+   margin-right: 10px;
+   margin-top: 20px;
+   margin-left: 1250px;
+}
+
+
+.h1{
+   font-size: 70px;
+   color: white;
+   font-family: Arial Black;
+   padding-left: 40px;
+   position: relative;
+   margin-top: 200px;
+   margin-left: 450px;
+}
+
+.p{
+  font-size: 25px;
+   color: white;
+   font-family: Arial Black;
+   padding-left: 40px;
+   position: relative;
+   margin-left: 50px; 
+   text-align: middle;
+}
+
+.style{
+   position: relative;
+   margin-top: 200px;
+   margin-right: 25px;
+   float: left;
+   margin: 0 10px 0 0;
+   vertical-align: middle;;
+}
+
+.style2{
+   position: relative;
+   vertical-align: middle;
+   float: left;
+   margin: 0 10px 0 0;
+}
+
+.img1{
+   position: relative;
+   vertical-align:middle;
+   margin-top: 61px;
+}
+
+.img2{
+   position: relative;
+   vertical-align:middle;
+   margin-right: 10px;
+   margin-top: 46px;
+   margin-left: 776px;
+
+}
+
+<img src="trois barre.png" class="barre"></img>
